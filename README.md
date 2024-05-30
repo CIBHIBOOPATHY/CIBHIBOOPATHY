@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Data , Machine Learning**
 
-- 📫 How to reach me **cibhi5921@gmail.com**
+- 📫 How to reach me **cibhi.boopathy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
