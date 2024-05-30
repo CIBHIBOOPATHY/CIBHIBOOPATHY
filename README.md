@@ -1,11 +1,10 @@
- 👋 Hi, I’m @CIBHIBOOPATHY
+ 👋 Hi, I’m Cibhi Boopathy
 
  📖 EDUCATION
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at www.linkedin.com/in/cibhiboopathy cibhi5921@gmail.com
+ MSc in Computational and Software Techniques in Engineering (Computational Intelligence for Data Analytics) : 2022 - 2023
+ BTech in Aerospace Engineering : 2018 - 2022
+ 
+ 👀 I’m interested in Analytics, Business and Technology
 
+ 📫 Reach me at www.linkedin.com/in/cibhiboopathy cibhi5921@gmail.com
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
